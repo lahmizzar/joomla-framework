@@ -19,7 +19,7 @@ All tasks are labelled into broad groups. For example, the [backlog](https://git
 
 ## Joomla Contributor Agreement
 
-Ideally, everybody who contributes to the Joomla Framework, or any other Open Source Matters supported project for that matter, should sign a [Joomla Contributor Agreement](http://developer.joomla.org/contributor-agreements.htm) (JCA). 
+Ideally, everybody who contributes to the Joomla Framework, or any other Open Source Matters supported project for that matter, should sign a [Joomla Contributor Agreement](http://developer.joomla.org/cms/contribute.html) (JCA). 
 
 But, we are aware that some contributors will not want to take the extra effort, especially for one-time contributors of modest amounts of code.  As a compromise, the Joomla Project requires a JCA from anybody who makes a significant contribution to Joomla or any other OSM project.  "Significant" is, of course, a judgment call.  As a general guideline, if you as an individual have contributed or intend to contribute over 100 lines of code to the Joomla Framework, we need a JCA. 
 
